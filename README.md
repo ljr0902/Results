@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
     
 <title>J's Results</title>
